@@ -2,7 +2,7 @@ export default {
   build: {
     rollupOptions: {
       output: {
-        assetFileNames: "images/[ext]/[name].[ext]",
+        assetFileNames: "images/[name].[ext]",
       },
     },
   },
