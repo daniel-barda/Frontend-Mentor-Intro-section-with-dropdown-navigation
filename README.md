@@ -7,19 +7,19 @@ This is my solution for the "Intro Section with Dropdown Navigation" challenge b
 
 ## Table of Contents
 
--   [Demo](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#demo)
--   [Overview](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#overview)
--   [The Challenge](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#the-challenge)
--   [Built With](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#built-with)
--   [Features](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#features)
--   [How I Approached This](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#how-i-approached-this)
--   [Vite and Optimized Build](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#vite-and-optimized-build)
--   [HTML](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#html)
--   [CSS Styles](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#css-styles)
--   [JavaScript](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#javascript)
--   [Challenges and Lessons Learned](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#challenges-and-lessons-learned)
--   [Acknowledgments](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#acknowledgments)
--   [Usage](https://chat.openai.com/c/f1d9421d-7f0c-434c-b2f6-12c949321e86#usage)
+-   [Demo](#demo)
+-   [Overview](#overview)
+-   [The Challenge](#the-challenge)
+-   [Built With](#built-with)
+-   [Features](#features)
+-   [How I Approached This](#how-i-approached-this)
+-   [Vite and Optimized Build](#vite-and-optimized-build)
+-   [HTML](#html)
+-   [CSS Styles](#css-styles)
+-   [JavaScript](#javascript)
+-   [Challenges and Lessons Learned](#challenges-and-lessons-learned)
+-   [Acknowledgments](#acknowledgments)
+-   [Usage](#usage)
 
 ## Demo
 
