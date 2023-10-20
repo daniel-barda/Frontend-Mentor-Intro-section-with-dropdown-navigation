@@ -1,5 +1,6 @@
-const navListEl = document.querySelector(".navigation__list");
+"use strict";
 
+const navListEl = document.querySelector(".navigation__list");
 const listFeatureEL = document.querySelector(".list-feature");
 const listCompanyEl = document.querySelector(".list-company");
 const header = document.querySelector(".header");
