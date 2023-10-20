@@ -6,8 +6,5 @@ export default {
         assetFileNames: "images/[name].[ext]",
       },
     },
-
-    // add this:
-    chunks: "index.js",
   },
 };
