@@ -120,7 +120,7 @@ I learned more about responsive design, JavaScript event handling, and improving
 
 ## Acknowledgments
 
-Thanks to Frontend Mentor for providing challenging projects that help developers improve their skills.
+Thanks to Frontend Mentor for providing fun and challenging projects that help developers hone their skills.
 
 ## Usage
 
