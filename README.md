@@ -8,7 +8,6 @@ This is my solution for the "Intro Section with Dropdown Navigation" challenge b
 ## Table of Contents
 
 -   [Demo](#demo)
--   [Overview](#overview)
 -   [The Challenge](#the-challenge)
 -   [Built With](#built-with)
 -   [Features](#features)
@@ -24,12 +23,6 @@ This is my solution for the "Intro Section with Dropdown Navigation" challenge b
 ## Demo
 
 You can see a live demo of the project [here](https://frontend-mentor-dropdown.netlify.app/).
-
-## Overview
-
-![Intro Section with Dropdown Navigation](https://chat.openai.com/c/screenshot.png)
-
-This project demonstrates the creation of a responsive landing page with interactive dropdown navigation. It focuses on using HTML, CSS, and JavaScript to achieve the desired functionality and layout.
 
 ## The Challenge
 
