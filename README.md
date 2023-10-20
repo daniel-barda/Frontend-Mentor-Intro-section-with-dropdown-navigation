@@ -110,13 +110,11 @@ header.addEventListener("click", (e) => {
 });`
 ```
 
-## Challenges and Lessons Learned
+## Challenges
 
 -   Implementing the dropdown menus and making them accessible and user-friendly.
 -   Responsiveness: Ensuring the design looks great on various screen sizes and devices.
 -   JavaScript logic for opening/closing menus while maintaining clean and readable code.
-
-I learned more about responsive design, JavaScript event handling, and improving user interactions during this project.
 
 ## Acknowledgments
 
