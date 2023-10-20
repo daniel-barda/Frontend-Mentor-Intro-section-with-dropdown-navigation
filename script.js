@@ -1,4 +1,18 @@
 "use strict";
+/*
+  Import the SVG icon file
+  This tells Vite that we need this file in the final build
+  So Vite will copy it to the `images` folder during build
+
+  Without the import, Vite doesn't know that we need the file
+  Even if we reference it in code like:
+    document.querySelector('img').src = '/images/icon.svg'
+  
+  We still need to import it so Vite sees that we depend on this file
+  Always import assets you want copied to build output folder
+*/
+
+import "./images/icon-arrow-up.svg";
 
 const navListEl = document.querySelector(".navigation__list");
 const listFeatureEL = document.querySelector(".list-feature");
